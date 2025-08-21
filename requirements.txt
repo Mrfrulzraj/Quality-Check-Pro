@@ -1,0 +1,8 @@
+tkinter
+sv-ttk
+pillow
+pywifi
+wmi
+psutil
+packaging
+pyinstaller
