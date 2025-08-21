@@ -235,16 +235,7 @@
 
 
 
-
-1\\. \\\*\\\*Icon File\\\*\\\*: You'll need to create or download an `icon.ico` file for the application icon. You can use online tools to convert PNG images to ICO format.
-
-
-
-
-
-
-
-2\\. \\\*\\\*Logo Image\\\*\\\*: The `Tecdale.png` file should be a square image (192x192 pixels recommended for best quality).
+1\\. \\\*\\\*Admin Rights\\\*\\\*: For full functionality, especially activation features, run the application as Administrator.
 
 
 
@@ -252,15 +243,7 @@
 
 
 
-3\\. \\\*\\\*Admin Rights\\\*\\\*: For full functionality, especially activation features, run the application as Administrator.
-
-
-
-
-
-
-
-4\\. \\\*\\\*First Run\\\*\\\*: The application will automatically create the necessary text files (`New Key.txt`, `Used Key.txt`, `Activation Log.txt`) if they don't exist.
+2\\. \\\*\\\*First Run\\\*\\\*: The application will automatically create the necessary text files (`New Key.txt`, `Used Key.txt`, `Activation Log.txt`) if they don't exist.
 
 
 
@@ -269,6 +252,7 @@
 
 
 The application is designed to be user-friendly with a professional dark theme and intuitive tab-based navigation.
+
 
 
 
