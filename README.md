@@ -28,11 +28,6 @@ A comprehensive system diagnostics and utilities application for Windows.
 3. Enter an order number for tracking (optional)
 4. Use the various tools and utilities as needed
 
-## Building from Source
-
-1. Install Python 3.8+
-2. Install dependencies: `pip install -r requirements.txt`
-
 ## License
 
 © 2025 Quality Check Pro. All rights reserved.
