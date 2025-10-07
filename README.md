@@ -32,4 +32,4 @@ A comprehensive system diagnostics and utilities application for Windows.
 ## License
 
 © 2025 Quality Check Pro. All rights reserved.
-![Image Alt]((https://github.com/Mrfrulzraj/Quality-Check-Pro/blob/36c1af6d818694b2e1b6a9fb39d70b53c192aba5/Screenshot.png)
+![Image Alt](https://github.com/Mrfrulzraj/Quality-Check-Pro/blob/36c1af6d818694b2e1b6a9fb39d70b53c192aba5/Screenshot.png)
