@@ -1,5 +1,4 @@
- ![Image Alt](https://github.com/Mrfrulzraj/Quality-Check-Pro/blob/36c1af6d818694b2e1b6a9fb39d70b53c192aba5/quality-control.png).
- ![Image Alt]((https://github.com/Mrfrulzraj/Quality-Check-Pro/blob/36c1af6d818694b2e1b6a9fb39d70b53c192aba5/Screenshot.png).
+                                  ![Image Alt](https://github.com/Mrfrulzraj/Quality-Check-Pro/blob/36c1af6d818694b2e1b6a9fb39d70b53c192aba5/quality-control.png)
 # Quality Check Pro
 
 A comprehensive system diagnostics and utilities application for Windows.
@@ -28,8 +27,9 @@ A comprehensive system diagnostics and utilities application for Windows.
 1. Launch the application
 2. Navigate through the tabs to access different features
 3. Enter an order number for tracking (optional)
-4. Use the various tools and utilities as needed
+4. Use the various tools and utilities as neede
 
 ## License
 
 © 2025 Quality Check Pro. All rights reserved.
+ ![Image Alt]((https://github.com/Mrfrulzraj/Quality-Check-Pro/blob/36c1af6d818694b2e1b6a9fb39d70b53c192aba5/Screenshot.png)
