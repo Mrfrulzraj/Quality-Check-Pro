@@ -1,4 +1,7 @@
-![Image Alt](https://github.com/Mrfrulzraj/Quality-Check-Pro/blob/36c1af6d818694b2e1b6a9fb39d70b53c192aba5/quality-control.png)
+<p align="center">
+  <img src="https://github.com/Mrfrulzraj/Quality-Check-Pro/blob/36c1af6d818694b2e1b6a9fb39d70b53c192aba5/quality-control.png" alt="Logo" width="200"/>
+</p>
+
 # Quality Check Pro
 
 A comprehensive system diagnostics and utilities application for Windows.
